@@ -37,6 +37,15 @@
 | MCU‑Module Interaction SDK | [UniKnect](https://github.com/quectel-develop) |
 | UniRTOS SDK                | [UniRTOS](https://github.com/unirtos)          |
 
+## 🛠 VSCode 插件
+
+| 插件仓库                                                     | 描述                |
+| ------------------------------------------------------------ | ------------------- |
+| [qpy-vscode-extension-doc](https://github.com/quectel-tech/qpy-vscode-extension-doc) | QuecPython 官方插件 |
+| [qpi-vscode-extension-doc](https://github.com/quectel-tech/qpi-vscode-extension-doc) | Quectel Pi 官方插件 |
+| [unirtos-vscode-extension-doc](https://github.com/quectel-tech/unirtos-vscode-extension-doc) | UniRTOS 官方插件    |
+| [uniknect-vscode-extension-doc](https://github.com/quectel-tech/uniknect-vscode-extension-doc) | UniKnect 官方插件   |
+
 # 产品线
 
 ## 🧠 智慧物联网
