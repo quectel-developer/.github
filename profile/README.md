@@ -12,7 +12,7 @@
 
 <a href="https://www.quectel.com.cn/" align="left" target="_blank"><img src="https://img.shields.io/badge/官方网站-quectel.com.cn-00a0e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="官方网站" /></a><br/>
 
-# 快速上手
+## 快速上手
 
 如需开始使用移远物联网解决方案，请访问[移远官网](https://www.quectel.com.cn/)。开发者门户提供方案专题文章、产品发布公告、版本说明、技术工坊资料以及活动资讯。
 
