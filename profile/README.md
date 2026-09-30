@@ -1,20 +1,18 @@
+
+
 ![](./media/Quectel_Ecosystem_banner.jpeg)
 
-# 欢迎来到移远通信 GitHub 主页
+# 🚀 欢迎来到移远通信 GitHub 主页
 
-移远通信所有面向蜂窝、智能、短距离、GNSS 以及 AIoT 模块的官方软件、软件开发工具包、演示项目与工具链均托管于该 GitHub 组织下。
+移远通信所有面向 **蜂窝、智能、短距离、GNSS 以及 AIoT 模块** 的官方软件、软件开发工具包、演示项目与工具链，均托管于该 GitHub 组织下。
 
-🏢 物联网整体解决方案全球供应商 \| 中国上海
+<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%93%8D-%E4%B8%AD%E5%9B%BD%E4%B8%8A%E6%B5%B7-e91e63?style=for-the-badge" align="left">
 
-🌐 官方网站：[https://www\.quectel\.com\.cn/](https://www.quectel.com.cn/)
+<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%8F%A2-%E7%89%A9%E8%81%94%E7%BD%91%E6%95%B4%E4%BD%93%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-1e88e5?style=for-the-badge" align="left">
 
-# 活动
+<a href="https://www.quectel.com.cn/" align="left"><img src="https://img.shields.io/badge/官方网站-quectel.com.cn-00a0e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="官方网站" /></a>
 
-2026 移远物联网开发者大会将展示端侧人工智能、5G‑AI 座舱融合、机器人以及扩展现实（XR）解决方案。敬请关注最新会议议程、技术工坊及线上回放。
-
-更多详情，请访问我们的官方活动页面。
-
-## 快速上手
+# ⚡ 快速上手
 
 如需开始使用移远物联网解决方案，请访问[移远官网](https://www.quectel.com.cn/)。开发者门户提供方案专题文章、产品发布公告、版本说明、技术工坊资料以及活动资讯。
 
@@ -27,24 +25,62 @@
 
 如遇到技术问题，请访问 💬[官方开发者社区](https://forumschinese.quectel.com/)。
 
-## ⚡ 核心开发框架
+## 🧩 核心开发框架
 
- 移远核心开发框架为基于移远蜂窝模组 / 智能模组开发应用提供底层支撑，支持 C/C++ 以及 Python 开发。 
+ 移远核心开发框架为基于移远蜂窝模组 / 智能模组开发应用提供底层支撑，支持 C/C++ 以及 Python 开发。
 
-| 开发框架                   | 项目                                           |
-| -------------------------- | ---------------------------------------------- |
-| Python IoT Framework       | [QuecPython](https://github.com/quecpython)    |
-| MCU‑Module Interaction SDK | [UniKnect](https://github.com/quectel-develop) |
-| UniRTOS SDK                | [UniRTOS](https://github.com/unirtos)          |
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:16px; margin:16px 0;">
+    <!-- QuecPython 卡片 -->
+    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;">
+        <h3>🐍 QuecPython</h3>
+        <p><em>Python IoT Framework</em></p>
+        <p>面向蜂窝模组的 Python 开发框架，快速构建物联网应用</p>
+        <a href="https://github.com/quecpython"><img src="https://img.shields.io/badge/GitHub-进入组织-blue?style=for-the-badge&logo=github"></a>
+    </div>
+    <!-- UniKnect 卡片 -->
+    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;">
+        <h3>🔌 UniKnect</h3>
+        <p><em>MCU‑Module Interaction SDK</em></p>
+        <p>MCU 与蜂窝模组交互 SDK，打通主控与通信能力</p>
+        <a href="https://github.com/quectel-develop"><img src="https://img.shields.io/badge/GitHub-进入组织-blue?style=for-the-badge&logo=github"></a>
+    </div>
+    <!-- UniRTOS 卡片 -->
+    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;">
+        <h3>⚙️ UniRTOS</h3>
+        <p><em>UniRTOS SDK</em></p>
+        <p>统一实时操作系统 SDK，支撑高性能智能模组开发</p>
+        <a href="https://github.com/unirtos"><img src="https://img.shields.io/badge/GitHub-进入组织-blue?style=for-the-badge&logo=github"></a>
+    </div>
+    <!-- 新增框架，复制上面一份div卡片粘贴到此，修改内容即可，网格会自动排列 -->
+</div>
 
 ## 🛠 VSCode 插件
 
-| 插件仓库                                                     | 描述                |
-| ------------------------------------------------------------ | ------------------- |
-| [qpy-vscode-extension-doc](https://github.com/quectel-tech/qpy-vscode-extension-doc) | QuecPython 官方插件 |
-| [qpi-vscode-extension-doc](https://github.com/quectel-tech/qpi-vscode-extension-doc) | Quectel Pi 官方插件 |
-| [unirtos-vscode-extension-doc](https://github.com/quectel-tech/unirtos-vscode-extension-doc) | UniRTOS 官方插件    |
-| [uniknect-vscode-extension-doc](https://github.com/quectel-tech/uniknect-vscode-extension-doc) | UniKnect 官方插件   |
+ 官方 VSCode 插件，提供工程模板、调试支持，提升开发效率。
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:16px; margin:16px 0;">
+    <!-- QuecPython -->
+    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;"> 
+        <h4>⭐ QuecPython 插件</h4> 
+        <p>QuecPython 官方 VSCode 扩展</p> 
+        <a href="https://github.com/quectel-developer/qpy-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?logo=github"> </a> 
+    </div>
+    <!-- Quectel Pi -->
+    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;"> 
+        <h4>⭐ Quectel Pi 插件</h4> <p>Quectel Pi 官方 VSCode 扩展</p> 
+        <a href="https://github.com/quectel-developer/qpi-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?logo=github"> </a> 
+    </div>
+    <!-- UniRTOS -->
+    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;"> 
+        <h4>⭐ UniRTOS 插件</h4> <p>UniRTOS 官方 VSCode 扩展</p> 
+        <a href="https://github.com/quectel-developer/unirtos-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?logo=github"> </a> 
+    </div>
+    <!-- UniKnect -->
+    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;"> 
+        <h4>⭐ UniKnect 插件</h4> <p>UniKnect 官方 VSCode 扩展</p> 
+        <a href="https://github.com/quectel-developer/uniknect-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?logo=github"> </a> 
+    </div>
+</div>  
 
 # 产品线
 
@@ -66,8 +102,10 @@
 
 欢迎访问：[艾络迅 - 科技连接未来](https://aiot.quectel.com/) 
 
-## 更多
+##  ℹ️ 更多
 
  如需进一步了解我们的开发框架、解决方案与代码库，请前往项目页面查看各项目简要说明。 
 
 🏢  如需了解移远通信的全系列产品与服务，请访问我们的官方网站：https://www.quectel.com.cn/。 
+
+<img src="https://img.shields.io/badge/©-Quectel_Connecting_Things-1e88e5?style=flat-square" alt="Quectel" />
