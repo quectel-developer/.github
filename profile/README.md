@@ -72,4 +72,4 @@
 
 🏢  如需了解移远通信的全系列产品与服务，请访问我们的官方网站：https://www.quectel.com.cn/。 
 
-<img src="https://img.shields.io/badge/©-Quectel_Connecting_Things-1e88e5?style=flat-square" alt="Quectel" />
+<img src="https://img.shields.io/badge/©-Quectel_Connecting_Things-1e88e5?style=flat-square" alt="Quectel" align="center" />
