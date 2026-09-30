@@ -39,12 +39,12 @@
 
 官方 VSCode 插件，提供工程模板、调试支持，提升开发效率。
 
-| 插件            | 描述                        | 仓库链接                                                     |
-| --------------- | --------------------------- | ------------------------------------------------------------ |
-| QuecPython 插件 | QuecPython 官方 VSCode 扩展 | <a href="https://github.com/quectel-developer/qpy-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?style=for-the-badge&logo=github"></a> |
-| Quectel Pi 插件 | Quectel Pi 官方 VSCode 扩展 | <a href="https://github.com/quectel-developer/qpi-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?style=for-the-badge&logo=github"></a> |
-| UniRTOS 插件    | UniRTOS 官方 VSCode 扩展    | <a href="https://github.com/quectel-developer/unirtos-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?style=for-the-badge&logo=github"></a> |
-| UniKnect 插件   | UniKnect 官方 VSCode 扩展   | <a href="https://github.com/quectel-developer/uniknect-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?style=for-the-badge&logo=github"></a> |
+| 插件                              | 描述                        | 仓库链接                                                     |
+| --------------------------------- | --------------------------- | ------------------------------------------------------------ |
+| **qpy-vscode-extension-doc**      | QuecPython 官方 VSCode 扩展 | <a href="https://github.com/quectel-developer/qpy-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?style=for-the-badge&logo=github"></a> |
+| **qpi-vscode-extension-doc**      | Quectel Pi 官方 VSCode 扩展 | <a href="https://github.com/quectel-developer/qpi-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?style=for-the-badge&logo=github"></a> |
+| **unirtos-vscode-extension-doc**  | UniRTOS 官方 VSCode 扩展    | <a href="https://github.com/quectel-developer/unirtos-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?style=for-the-badge&logo=github"></a> |
+| **uniknect-vscode-extension-doc** | UniKnect 官方 VSCode 扩展   | <a href="https://github.com/quectel-developer/uniknect-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?style=for-the-badge&logo=github"></a> |
 
 # 产品线
 
