@@ -6,11 +6,11 @@
 
 移远通信所有面向 **蜂窝、智能、短距离、GNSS 以及 AIoT 模块** 的官方软件、软件开发工具包、演示项目与工具链，均托管于该 GitHub 组织下。
 
-<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%93%8D-%E4%B8%AD%E5%9B%BD%E4%B8%8A%E6%B5%B7-e91e63?style=for-the-badge" align="left">
+<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%93%8D-%E4%B8%AD%E5%9B%BD%E4%B8%8A%E6%B5%B7-e91e63?style=for-the-badge" align="left"><br/>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%8F%A2-%E7%89%A9%E8%81%94%E7%BD%91%E6%95%B4%E4%BD%93%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-1e88e5?style=for-the-badge" align="left">
+<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%8F%A2-%E7%89%A9%E8%81%94%E7%BD%91%E6%95%B4%E4%BD%93%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-1e88e5?style=for-the-badge" align="left"><br/>
 
-<a href="https://www.quectel.com.cn/" align="left"><img src="https://img.shields.io/badge/官方网站-quectel.com.cn-00a0e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="官方网站" /></a>
+<a href="https://www.quectel.com.cn/" align="left"><img src="https://img.shields.io/badge/官方网站-quectel.com.cn-00a0e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="官方网站" /></a><br/>
 
 # ⚡ 快速上手
 
@@ -29,58 +29,22 @@
 
  移远核心开发框架为基于移远蜂窝模组 / 智能模组开发应用提供底层支撑，支持 C/C++ 以及 Python 开发。
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:16px; margin:16px 0;">
-    <!-- QuecPython 卡片 -->
-    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;">
-        <h3>🐍 QuecPython</h3>
-        <p><em>Python IoT Framework</em></p>
-        <p>面向蜂窝模组的 Python 开发框架，快速构建物联网应用</p>
-        <a href="https://github.com/quecpython"><img src="https://img.shields.io/badge/GitHub-进入组织-blue?style=for-the-badge&logo=github"></a>
-    </div>
-    <!-- UniKnect 卡片 -->
-    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;">
-        <h3>🔌 UniKnect</h3>
-        <p><em>MCU‑Module Interaction SDK</em></p>
-        <p>MCU 与蜂窝模组交互 SDK，打通主控与通信能力</p>
-        <a href="https://github.com/quectel-develop"><img src="https://img.shields.io/badge/GitHub-进入组织-blue?style=for-the-badge&logo=github"></a>
-    </div>
-    <!-- UniRTOS 卡片 -->
-    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;">
-        <h3>⚙️ UniRTOS</h3>
-        <p><em>UniRTOS SDK</em></p>
-        <p>统一实时操作系统 SDK，支撑高性能智能模组开发</p>
-        <a href="https://github.com/unirtos"><img src="https://img.shields.io/badge/GitHub-进入组织-blue?style=for-the-badge&logo=github"></a>
-    </div>
-    <!-- 新增框架，复制上面一份div卡片粘贴到此，修改内容即可，网格会自动排列 -->
-</div>
+| 框架                                          | 简介                                               | 入口                                                         |
+| --------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------ |
+| **QuecPython**<br/>*Python IoT Framework*     | 面向蜂窝模组的 Python 开发框架，快速构建物联网应用 | <a href="https://github.com/quecpython"><img src="https://img.shields.io/badge/GitHub-进入组织-blue?style=for-the-badge&logo=github"></a> |
+| **UniKnect**<br/>*MCU‑Module Interaction SDK* | MCU 与蜂窝模组交互 SDK，打通主控与通信能力         | <a href="https://github.com/quectel-develop"><img src="https://img.shields.io/badge/GitHub-进入组织-blue?style=for-the-badge&logo=github"></a> |
+| **UniRTOS**<br/>*UniRTOS SDK*                 | 统一实时操作系统 SDK，支撑高性能智能模组开发       | <a href="https://github.com/unirtos"><img src="https://img.shields.io/badge/GitHub-进入组织-blue?style=for-the-badge&logo=github"></a> |
 
 ## 🛠 VSCode 插件
 
  官方 VSCode 插件，提供工程模板、调试支持，提升开发效率。
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:16px; margin:16px 0;">
-    <!-- QuecPython -->
-    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;"> 
-        <h4>⭐ QuecPython 插件</h4> 
-        <p>QuecPython 官方 VSCode 扩展</p> 
-        <a href="https://github.com/quectel-developer/qpy-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?logo=github"> </a> 
-    </div>
-    <!-- Quectel Pi -->
-    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;"> 
-        <h4>⭐ Quectel Pi 插件</h4> <p>Quectel Pi 官方 VSCode 扩展</p> 
-        <a href="https://github.com/quectel-developer/qpi-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?logo=github"> </a> 
-    </div>
-    <!-- UniRTOS -->
-    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;"> 
-        <h4>⭐ UniRTOS 插件</h4> <p>UniRTOS 官方 VSCode 扩展</p> 
-        <a href="https://github.com/quectel-developer/unirtos-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?logo=github"> </a> 
-    </div>
-    <!-- UniKnect -->
-    <div style="border:1px solid #30363d; border-radius:8px; padding:16px;"> 
-        <h4>⭐ UniKnect 插件</h4> <p>UniKnect 官方 VSCode 扩展</p> 
-        <a href="https://github.com/quectel-developer/uniknect-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?logo=github"> </a> 
-    </div>
-</div>  
+| 插件            | 描述                        | 仓库链接                                                     |
+| --------------- | --------------------------- | ------------------------------------------------------------ |
+| QuecPython 插件 | QuecPython 官方 VSCode 扩展 | <a href="https://github.com/quectel-developer/qpy-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?style=for-the-badge&logo=github"></a> |
+| Quectel Pi 插件 | Quectel Pi 官方 VSCode 扩展 | <a href="https://github.com/quectel-developer/qpi-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?style=for-the-badge&logo=github"></a> |
+| UniRTOS 插件    | UniRTOS 官方 VSCode 扩展    | <a href="https://github.com/quectel-developer/unirtos-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?style=for-the-badge&logo=github"></a> |
+| UniKnect 插件   | UniKnect 官方 VSCode 扩展   | <a href="https://github.com/quectel-developer/uniknect-vscode-extension-doc"> <img src="https://img.shields.io/badge/GitHub-查看仓库-red?style=for-the-badge&logo=github"></a> |
 
 # 产品线
 
