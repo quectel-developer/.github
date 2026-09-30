@@ -2,7 +2,7 @@
 
 ![](./media/Quectel_Ecosystem_banner.jpeg)
 
-# 🚀 欢迎来到移远通信 GitHub 主页
+# 欢迎来到移远通信 GitHub 主页
 
 移远通信所有面向 **蜂窝、智能、短距离、GNSS 以及 AIoT 模块** 的官方软件、软件开发工具包、演示项目与工具链，均托管于该 GitHub 组织下。
 
@@ -12,7 +12,7 @@
 
 <a href="https://www.quectel.com.cn/" align="left"><img src="https://img.shields.io/badge/官方网站-quectel.com.cn-00a0e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="官方网站" /></a><br/>
 
-# ⚡ 快速上手
+# 快速上手
 
 如需开始使用移远物联网解决方案，请访问[移远官网](https://www.quectel.com.cn/)。开发者门户提供方案专题文章、产品发布公告、版本说明、技术工坊资料以及活动资讯。
 
@@ -25,7 +25,7 @@
 
 如遇到技术问题，请访问 💬[官方开发者社区](https://forumschinese.quectel.com/)。
 
-## 🧩 核心开发框架
+## 核心开发框架
 
 移远核心开发框架为基于移远蜂窝模组 / 智能模组开发应用提供底层支撑，支持 C/C++ 以及 Python 开发。
 
@@ -35,7 +35,7 @@
 | **UniKnect**<br/>*MCU‑Module Interaction SDK* | MCU 与蜂窝模组交互 SDK，打通主控与通信能力         | <a href="https://github.com/quectel-develop"><img src="https://img.shields.io/badge/GitHub-进入组织-blue?style=for-the-badge&logo=github"></a> |
 | **UniRTOS**<br/>*UniRTOS SDK*                 | 统一实时操作系统 SDK，支撑高性能智能模组开发       | <a href="https://github.com/unirtos"><img src="https://img.shields.io/badge/GitHub-进入组织-blue?style=for-the-badge&logo=github"></a> |
 
-## 🛠 VSCode 插件
+## VSCode 插件
 
 官方 VSCode 插件，提供工程模板、调试支持，提升开发效率。
 
@@ -48,25 +48,25 @@
 
 # 产品线
 
-## 🧠 智慧物联网
+## 智慧物联网
 
 | 仓库/组织                                   | 描述                                                         | 开发语言 |
 | ------------------------------------------- | ------------------------------------------------------------ | -------- |
 | [Quectel Pi](https://github.com/quectel-pi) | Quectel Pi 提供搭载全套软件的智能控制板，面向高性能、低功耗物联网与边缘计算嵌入式解决方案。 | Python/C |
 
-##  📻 无线短距离
+##  无线短距离
 
 >  Wi‑Fi / BLE
 
 欢迎访问：[移远短距离通信文档中心](https://developer.quectel.com/doc/shortrange/zh/index.html) 
 
-##  ☁️ 物联网云平台
+##  物联网云平台
 
 > 艾络迅™飞鸢物联网平台一站式接入，快速实现您的智能互联之旅
 
 欢迎访问：[艾络迅 - 科技连接未来](https://aiot.quectel.com/) 
 
-##  ℹ️ 更多
+## 更多
 
 如需进一步了解我们的开发框架、解决方案与代码库，请前往项目页面查看各项目简要说明。 
 
