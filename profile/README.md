@@ -1,4 +1,4 @@
-![](./Quectel_logo_Slogan.png)
+![](./media/Quectel_Ecosystem_banner.jpeg)
 
 # 欢迎来到移远通信 GitHub 主页
 
