@@ -10,7 +10,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%8F%A2-%E7%89%A9%E8%81%94%E7%BD%91%E6%95%B4%E4%BD%93%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-1e88e5?style=for-the-badge" align="left"><br/>
 
-<a href="https://www.quectel.com.cn/" align="left"><img src="https://img.shields.io/badge/官方网站-quectel.com.cn-00a0e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="官方网站" /></a><br/>
+<a href="https://www.quectel.com.cn/" align="left" target="_blank"><img src="https://img.shields.io/badge/官方网站-quectel.com.cn-00a0e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="官方网站" /></a><br/>
 
 # 快速上手
 
